@@ -1,4 +1,5 @@
 ## 🚀 About Me
+Hi myself Bharat Mahawar
 I'm a first-year Electronics & Communication Engineering student at MNIT Jaipur, passionate about software development, cybersecurity, and learning how technology works under the hood. My goal is to become a Software Development Engineer (SDE).
 
 - 🎓 Pursuing B.Tech in ECE at MNIT Jaipur
